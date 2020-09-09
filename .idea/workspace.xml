@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67732527-436e-4a3f-9a0a-142d28b411d4" name="Default Changelist" comment="" />
+    <list default="true" id="67732527-436e-4a3f-9a0a-142d28b411d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout/Checkout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Checkout/Subtotal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout/Subtotal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home/Product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +56,8 @@
       <workItem from="1599653947033" duration="210000" />
       <workItem from="1599654237146" duration="604000" />
       <workItem from="1599658931607" duration="179000" />
+      <workItem from="1599659681800" duration="597000" />
+      <workItem from="1599675152139" duration="9795000" />
     </task>
     <servers />
   </component>
@@ -53,10 +70,18 @@
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599654157115" />
     <state x="2017" y="174" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599659107293" />
-    <state x="390" y="120" width="586" height="488" key="find.popup" timestamp="1599640139877">
+    <state x="2034" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1599675152436">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2034" y="347" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599675152436" />
+    <state x="349" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599681502269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599601575309" />
+    <state x="349" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599681502269" />
+    <state x="390" y="120" width="586" height="488" key="find.popup" timestamp="1599683836762">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599683836762" />
     <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599640139877" />
   </component>
 </project>

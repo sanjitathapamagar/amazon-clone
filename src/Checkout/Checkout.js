@@ -12,7 +12,7 @@ function Checkout() {
 
                 <div>
                     <h2 className='checkout__title'>
-                        Your Shopping
+                        Your Shopping Basket
                     </h2>
                 </div>
             </div>

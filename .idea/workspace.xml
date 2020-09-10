@@ -2,20 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67732527-436e-4a3f-9a0a-142d28b411d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login/Login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Login/Login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.e7b5b4af2de35644ed9851393c3d10e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.2cca1679.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.2cca1679.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.e3ff63a9.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.e3ff63a9.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.e3ff63a9.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.76b110c6.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.76b110c6.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.90140090.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.90140090.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout/Checkout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Checkout/Subtotal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout/Subtotal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Checkout/CheckoutProduct.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home/Product.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home/Product.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Home/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home/Product.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login/Login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login/Login.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +69,8 @@
       <workItem from="1599654237146" duration="604000" />
       <workItem from="1599658931607" duration="179000" />
       <workItem from="1599659681800" duration="597000" />
-      <workItem from="1599675152139" duration="9795000" />
+      <workItem from="1599675152139" duration="10129000" />
+      <workItem from="1599716438201" duration="21309000" />
     </task>
     <servers />
   </component>
@@ -70,18 +83,28 @@
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599654157115" />
     <state x="2017" y="174" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599659107293" />
-    <state x="2034" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1599675152436">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="475" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1599716438583">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="2034" y="347" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1599675152436" />
-    <state x="349" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599681502269">
+    <state x="475" y="243" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599716438583" />
+    <state x="349" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599742080789">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="349" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599681502269" />
-    <state x="390" y="120" width="586" height="488" key="find.popup" timestamp="1599683836762">
+    <state x="349" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1599742080789" />
+    <state x="390" y="120" width="586" height="488" key="find.popup" timestamp="1599745920689">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1599683836762" />
-    <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599640139877" />
+    <state x="390" y="120" width="586" height="488" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599745920689" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1599744049368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599744049368" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599728369280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599728369280" />
   </component>
 </project>

@@ -24,8 +24,9 @@ function Header() {
             </div>
             <div className='header__nav'>
                 <Link to={!user && '/login'}>
-                    <div className='header__option' onClick={handleAuthetication}>
-                        <span className='header__optionLineOne'>Hello, {user ? user?.email : 'Guest'}</span>
+                    <div className='header__option header__signInButton' onClick={handleAuthetication}>
+                        <span
+                            className='header__optionLineOne'>Hello, {user ? user.email.substring(0, user.email.lastIndexOf("@")) : 'Guest'}</span>
                         <span className='header__optionLineTwo'>{user ? 'Sign out' : 'Sign In'}</span>
                     </div>
                 </Link>

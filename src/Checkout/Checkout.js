@@ -3,6 +3,7 @@ import './Checkout.css'
 import Subtotal from "./Subtotal";
 import CheckoutProduct from "./CheckoutProduct";
 import {useStateValue} from "../StateProvider";
+import FlipMove from "react-flip-move";
 
 function Checkout() {
     const [{basket, user}, dispatch] = useStateValue();
@@ -10,22 +11,27 @@ function Checkout() {
         <div className='checkout'>
             <div className='checkout__left'>
                 <img className='checkout__ad'
-                     src='https://images-na.ssl-images-amazon.com/images/G/02/UK_CCMP/TM/OCC_Amazon1._CB42392668_.jpg'
+                     src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT19_tRK6I0qOKLSrNToc7xOEjIIWMGF_7v_Q&usqp=CAU'
                      alt=''/>
 
                 <div>
-                    <h3>Hello, {user?.email}</h3>
+                    <h3>Hello, {user? user.email.substring(0, user.email.lastIndexOf("@")): 'Guest'}</h3>
                     <h2 className='checkout__title'>
                         Your Shopping Basket
                     </h2>
-                    {basket.map(item => (
-                        <CheckoutProduct
-                            id={item.id}
-                            image={item.image}
-                            title={item.title}
-                            price={item.price}
-                            rating={item.rating}></CheckoutProduct>
-                    ))}
+                    <FlipMove staggerDurationBy="30"
+                              duration={500}>
+                        {basket.map((item, index) => (
+                            <CheckoutProduct
+                                key={`${item.id}-${index}`}
+                                id={item.id}
+                                image={item.image}
+                                title={item.title}
+                                price={item.price}
+                                rating={item.rating}></CheckoutProduct>
+                        ))}
+                    </FlipMove>
+
                     {/*<CheckoutProduct/>*/}
                 </div>
             </div>

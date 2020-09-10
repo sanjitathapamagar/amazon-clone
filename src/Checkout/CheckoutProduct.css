@@ -14,6 +14,11 @@
     border-color: #A88734 #9C7E31 #846A29;
     color: #111;
 }
+.checkoutProduct__info > button:hover {
+    background-color: #e7b84a;
+    cursor: pointer;
+    transform: scale(1.07);
+}
 .checkoutProduct__image {
     object-fit: contain;
     width: 180px;
